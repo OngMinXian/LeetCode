@@ -18,4 +18,5 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Unique Occurrances | Hashmap implementation | O(n)<br/>O(n) | Easy |
 | Number of Recent Calls | Use a deque from collections | O(n)<br/>O(n) | Easy |
 | Reverse Linked List | Classic reverse linked list problem, use prev curr and next variables with while loop | O(n)<br/>O(1) | Easy |
-| Maximum Depth of Binary Tree | Uses depth first search and returns the maximum depth reached using max operator | O(n)<br/>O(h) | Easy |
+| Maximum Depth of Binary Tree | Uses DFS and returns the maximum depth reached using max operator | O(n)<br/>O(h) | Easy |
+| Leaf-Similar Trees | In order traversal problem using DFS | O(n)<br/>O(h) | Easy |
