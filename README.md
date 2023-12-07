@@ -20,3 +20,16 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Reverse Linked List | Classic reverse linked list problem, use prev curr and next variables with while loop | O(n)<br/>O(1) | Easy |
 | Maximum Depth of Binary Tree | Uses DFS and returns the maximum depth reached using max operator | O(n)<br/>O(h) | Easy |
 | Leaf-Similar Trees | In order traversal problem using DFS | O(n)<br/>O(h) | Easy |
+| Search in a Binary Search Tree | Binary search in a binary tree | O(logn)<br/>O(logh) | Easy |
+| Guess Number Higher or Lower | Classic binary search problem using low, high and mid | O(logn)<br/>O(logn) | Easy |
+| N-th Tribonacci Number | 3 variable question using a for loop or use recursion with memoization | O(n)<br/>O(1) | Easy |
+| Min Cost Climbing Stairs | Minimum cost to reach stair n depends on minimum cost of n-1 and n-2, use 1D dynamic programming | O(n)<br/>O(n) | Easy |
+| Count bits | Number of 1s in even number is same as half of the number and +1 for odd number | O(n)<br/>O(n) | Easy |
+| Single Number | Use XOR operator on all numbers for constant space, or not use hash table for linear space | O(n)<br/>O(1) | Easy |
+| Two Sum | Use a hash table | O(n)<br/>O(1) | Easy |
+| Valid Parenthesis | Use a stack | O(n)<br/>O(n) | Easy |
+| Merge Two Sorted Lists | Use a dummy and current node and compare values of front of each list | O(n)<br/>O(1) | Easy |
+| Best Time To Buy And Sell Stock | Keep track of lowest price and highest profit | O(n)<br/>O(n) | Easy |
+| Valid Palindrome | Use 2 pointers for front and back | O(n)<br/>O(1) | Easy |
+
+
