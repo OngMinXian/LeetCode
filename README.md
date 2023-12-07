@@ -31,5 +31,6 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Merge Two Sorted Lists | Use a dummy and current node and compare values of front of each list | O(n)<br/>O(1) | Easy |
 | Best Time To Buy And Sell Stock | Keep track of lowest price and highest profit | O(n)<br/>O(n) | Easy |
 | Valid Palindrome | Use 2 pointers for front and back | O(n)<br/>O(1) | Easy |
+| Invert Binary Tree | Depth first search while swapping left and right children | O(n)<br/>O(h) | Easy |
 
 
