@@ -35,4 +35,6 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Valid Anagram | Use hash maps to keep count | O(n)<br/>O(n) | Easy |
 | Binary Search | Classic binary search algorithm | O(logn)<br/>O(1) | Easy |
 | Flood Fill | Use DFS to spread only to same as original color | O(n)<br/>O(1) | Easy |
+| Lowest Common Ancestor of a Binary Search Tree | Check if current node is in between given range, else visit left/right | O(logn)<br/>O(1) | Easy |
+| Balanced Binary Tree | Compare left and right depth at each node | O(n)<br/>O(n) | Easy |
 
