@@ -41,4 +41,8 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Implement Queue Using Stacks | Use 1 stack as front and another back. To pop, check if back is empty and reverse front else pop from back stack | NA | Easy |
 | First Bad Version | Search using binary search algorithm | O(logn)<br/>O(1) | Easy |
 | Ransom Note | Use hash map | O(n)<br/>O(n) | Easy |
-
+| Climbing Stairs | Use 1D DP table | O(n)<br/>O(n) | Easy |
+| Longest Palindrome | Use hash map and consider even and odd counts | O(n)<br/>O(n) | Easy |
+| Majority Element | Moore voting algorithm | O(n)<br/>O(1) | Easy |
+| Add Binary | Add binary position by position using carry over strategy | O(n)<br/>O(n) | Easy |
+| Diameter Of A Binary Tree | Diameter of a node is max depth of left side + max depth of right side | O(n)<br/>O(n) | Easy |
