@@ -37,4 +37,8 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Flood Fill | Use DFS to spread only to same as original color | O(n)<br/>O(1) | Easy |
 | Lowest Common Ancestor of a Binary Search Tree | Check if current node is in between given range, else visit left/right | O(logn)<br/>O(1) | Easy |
 | Balanced Binary Tree | Compare left and right depth at each node | O(n)<br/>O(n) | Easy |
+| Linked List Cycle | Use 2 pointer (slow and fast) to check for cycle | O(n)<br/>O(1) | Easy |
+| Implement Queue Using Stacks | Use 1 stack as front and another back. To pop, check if back is empty and reverse front else pop from back stack | NA | Easy |
+| First Bad Version | Search using binary search algorithm | O(logn)<br/>O(1) | Easy |
+| Ransom Note | Use hash map | O(n)<br/>O(n) | Easy |
 
