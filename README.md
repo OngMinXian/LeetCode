@@ -49,3 +49,5 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Middle Of The Linked List | Slow and faster pointer approach | O(n)<br/>O(1) | Easy |
 | Contains Duplicate | Use hashset/map | O(n)<br/>O(n) | Easy |
 | Maximum Subarray | Keep maximum sum up to ith position using DP or 2 variables | O(n)<br/>O(1) | Medium |
+| Insert Interval | Check if new interval lies within the other intervals and maintain left and right intervals to it | O(n)<br/>O(n) | Medium |
+| 01 Matrix | Multiple source BFS | O(mn)<br/>O(mn) | Medium |
