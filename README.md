@@ -52,3 +52,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Insert Interval | Check if new interval lies within the other intervals and maintain left and right intervals to it | O(n)<br/>O(n) | Medium |
 | 01 Matrix | Multiple source BFS | O(mn)<br/>O(mn) | Medium |
 | K Closest Points To Origin | Quick select > min/max heap > sorting | O(n)<br/>O(n) | Medium |
+Longest Substring Without Repeating Characters | Use dictionary to maintain last seen index and use a sliding window of left and right | O(n)<br/>O(n) | Medium |
