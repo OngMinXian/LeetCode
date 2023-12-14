@@ -54,3 +54,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | K Closest Points To Origin | Quick select > min/max heap > sorting | O(n)<br/>O(n) | Medium |
 | Longest Substring Without Repeating Characters | Use dictionary to maintain last seen index and use a sliding window of left and right | O(n)<br/>O(n) | Medium |
 | 3 Sum | Use a positive/negative hash counter and zero counter and consider 2 positives 1 negative / 2 negatives 1 postive | O(n^2)<br/>O(n) | Medium |
+| Binary Tree Level Order Traversal | BFS problem | O(n)<br/>O(n) | Medium |
