@@ -56,3 +56,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | 3 Sum | Use a positive/negative hash counter and zero counter and consider 2 positives 1 negative / 2 negatives 1 postive | O(n^2)<br/>O(n) | Medium |
 | Binary Tree Level Order Traversal | BFS problem | O(n)<br/>O(n) | Medium |
 | Clone Graph | BFS problem | O(n)<br/>O(n) | Medium |
+| Evaluate Reverse Polish Notation | Use stack and pop 2 numbers when meet operator | O(n)<br/>O(n) | Medium |
