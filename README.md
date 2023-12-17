@@ -58,3 +58,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Clone Graph | BFS problem | O(n)<br/>O(n) | Medium |
 | Evaluate Reverse Polish Notation | Use stack and pop 2 numbers when meet operator | O(n)<br/>O(n) | Medium |
 | Course Schedule | Topological sort to check if cycle exist and every vertice is visited | O(V+E)<br/>O(V+E) | Medium |
+| Implement Trie (Prefix Tree) | Use a tree structure where each node is a character | NA | Medium |
