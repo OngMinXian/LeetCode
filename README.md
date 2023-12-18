@@ -59,3 +59,5 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Evaluate Reverse Polish Notation | Use stack and pop 2 numbers when meet operator | O(n)<br/>O(n) | Medium |
 | Course Schedule | Topological sort to check if cycle exist and every vertice is visited | O(V+E)<br/>O(V+E) | Medium |
 | Implement Trie (Prefix Tree) | Use a tree structure where each node is a character | NA | Medium |
+| Coin Change | Dynamic programming and math.inf | O(n)<br/>O(n) | Medium |
+| Product Of Array Except Self | Maintain a left and right product and iterate through array twice or use 2 pointers | O(n)<br/>O(n) | Medium |
