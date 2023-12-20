@@ -61,3 +61,10 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Implement Trie (Prefix Tree) | Use a tree structure where each node is a character | NA | Medium |
 | Coin Change | Dynamic programming and math.inf | O(n)<br/>O(n) | Medium |
 | Product Of Array Except Self | Maintain a left and right product and iterate through array twice or use 2 pointers | O(n)<br/>O(n) | Medium |
+| Min Stack | Use 1 stack for normal stack another stack to maintain minimum at each push/pop | NA | Medium |
+| Validate Binary Search Tree | DFS returning lower and upper bounds or use in order traversal | O(n)<br/>O(h) | Medium |
+| Number Of Islands | Multi-source BFS | O(nm)<br/>O(nm) | Medium |
+| Rotting Oranges | Multi-source BFS while keeping count of iterations | O(nm)<br/>O(nm) | Medium |
+| Search In Rotated Sorted Array | Binary search and consider which half is sorted | O(logn)<br/>O(1) | Medium |
+| Combination Sum | DFS/Backtracking algorithm | O(n^c)<br/>O(target/c) | Medium |
+| Permutations | Combinatorial search problem using DFS/Backtracking algorithm | O(n!)<br/>O(n!) | Medium |
