@@ -68,3 +68,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Search In Rotated Sorted Array | Binary search and consider which half is sorted | O(logn)<br/>O(1) | Medium |
 | Combination Sum | DFS/Backtracking algorithm | O(n^c)<br/>O(target/c) | Medium |
 | Permutations | Combinatorial search problem using DFS/Backtracking algorithm | O(n!)<br/>O(n!) | Medium |
+| Merge Intervals | Sort first before merging and check which end is bigger using max | O(nlogn)<br/>O(n) | Medium |
