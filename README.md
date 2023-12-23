@@ -69,3 +69,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Combination Sum | DFS/Backtracking algorithm | O(n^c)<br/>O(target/c) | Medium |
 | Permutations | Combinatorial search problem using DFS/Backtracking algorithm | O(n!)<br/>O(n!) | Medium |
 | Merge Intervals | Sort first before merging and check which end is bigger using max | O(nlogn)<br/>O(n) | Medium |
+| Lowest Common Ancestor Of A Binary Tree | DFS to required nodes and return the nodes/none until LCA | O(n)<br/>O(h) | Medium |
