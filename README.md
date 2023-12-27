@@ -71,3 +71,9 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Merge Intervals | Sort first before merging and check which end is bigger using max | O(nlogn)<br/>O(n) | Medium |
 | Lowest Common Ancestor Of A Binary Tree | DFS to required nodes and return the nodes/none until LCA | O(n)<br/>O(h) | Medium |
 | Time Based Key-Value Store | Use binary search as timestamps are strictly increasing and hash maps | O(logn)<br/>O(n) | Medium |
+| Sort Colors | Use a 3 pointer approach (partition between 0, 1 and 2 and a current index) | O(n)<br/>O(1) | Medium |
+| Word Break | Dynamic programming to check each possible substring | O(nm)<br/>O(n) | Medium |
+| Partition Equal Subset Sum | Dynamic programming in knapsack problem | O(nw)<br/>O(w) | Medium |
+| String to Integer (atoi) | Consider numerous edge cases | O(n)<br/>O(n) | Medium |
+| Spiral Matrix | While loop to keep spiraling till solved | O(n)<br/>O(n) | Medium |
+| Subsets | DFS approach to visit all possible subsets | O(n!)<br/>O(n!) | Medium |
