@@ -79,3 +79,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Subsets | DFS approach to visit all possible subsets | O(n!)<br/>O(n!) | Medium |
 | Binary Tree Right Side View | BFS with in order traversal | O(n)<br/>O(n) | Medium |
 | Longest Palindromic Substring | Expand around center considering odd and even palindromes | O(n^2)<br/>O(1) | Medium |
+| Unique Paths | DP solution | O(mn)<br/>O(mn) | Medium |
