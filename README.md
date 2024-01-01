@@ -80,3 +80,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Binary Tree Right Side View | BFS with in order traversal | O(n)<br/>O(n) | Medium |
 | Longest Palindromic Substring | Expand around center considering odd and even palindromes | O(n^2)<br/>O(1) | Medium |
 | Unique Paths | DP solution | O(mn)<br/>O(mn) | Medium |
+| Construct Binary Tree From Preorder and Inorder Traversal | Use a dictionary to index inorder and recursively build tree by popping left from preorder array and separating inorder array | O(n)<br/>O(h) | Medium |
