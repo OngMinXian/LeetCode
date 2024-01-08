@@ -82,3 +82,4 @@ This is a personal repository of LeetCode practice in preparation of job intervi
 | Unique Paths | DP solution | O(mn)<br/>O(mn) | Medium |
 | Construct Binary Tree From Preorder and Inorder Traversal | Use a dictionary to index inorder and recursively build tree by popping left from preorder array and separating inorder array | O(n)<br/>O(h) | Medium |
 | Container with Most Water | 2 pointer approach to constantly update the lower height | O(n)<br/>O(1) | Medium |
+| Letter Combinations Of A Phone Number | Backtracking approach | O(4^n)<br/>O(n) | Medium |
